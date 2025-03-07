@@ -2,3 +2,8 @@
 *.class
 *.json
 *.md
+*.exe
+*.o
+*.zip
+phpmyadmin/
+ProjectMilestones/
